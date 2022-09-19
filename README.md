@@ -1,7 +1,7 @@
 ## Oii, sou a Carolina!
 
 - 🔭 Hoje trabalho como estagiária de desenvolvimento de software: .Net Core
-- 🌱 Estudo Análise de Desenvolvimento de Sistemas 3/5
+- 🌱 Estudo Análise de Desenvolvimento de Sistemas 4/5
 
 
 <div align="center">
