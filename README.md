@@ -1,7 +1,7 @@
 ## Oii, sou a Carolina!
 
 - 🔭 Hoje trabalho como estagiária de desenvolvimento de software
-- 🌱 Estudo Análise de Desenvolvimento de Sistemas 4/5
+- 🌱 Estudo Análise de Desenvolvimento de Sistemas 5/5
 
 
 <div align="center">
