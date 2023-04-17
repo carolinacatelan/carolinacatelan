@@ -1,6 +1,5 @@
-## Oii, sou a Carolina!
+## Oii, sou a Carol!
 
-- 🔭 Hoje trabalho como estagiária de desenvolvimento de software
 - 🌱 Estudo Análise de Desenvolvimento de Sistemas 5/5
 
 
