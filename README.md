@@ -1,5 +1,5 @@
 <h1 align="center">Oi, sou a Carol 👋</h1>
-<h4 align="center">🌱 Estudo Desenvolvimento de Sistema</h4>
+<h4 align="center">🌱 Estudo Desenvolvimento de Sistemas</h4>
 
 <div align="center">
   <a href="https://github.com/carolinacatelan">
